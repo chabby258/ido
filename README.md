@@ -5,7 +5,7 @@ hello !!
 
 echo "add message" >>README.md
 
-help QQQQQQQQ
+help QQQQQQQQ!
 
 
 terrible
